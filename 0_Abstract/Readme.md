@@ -24,15 +24,15 @@ developed with safety environment when switching ON or OFF the light whenever we
 
 • Improved Environmental Performance.
 
-The Ability to Operate in Cold Conditions.
+. The Ability to Operate in Cold Conditions.
 
-No Heat or UV Emissions.
+. No Heat or UV Emissions.
 
-Design Flexibility.
+. Design Flexibility.
 
-Instant Lighting and the Ability to Withstand Frequent Switching.
+. Instant Lighting and the Ability to Withstand Frequent Switching.
 
-Low Voltage Operation.
+. Low Voltage Operation.
 
 # Disadvantages:
 
@@ -60,7 +60,7 @@ Low Voltage Operation.
 
 • SimuliDE
 
-Atmel studio
+. Atmel studio
 
 # Advantages:
 
