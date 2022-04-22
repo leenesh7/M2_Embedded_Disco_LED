@@ -16,6 +16,12 @@ developed with safety environment when switching ON or OFF the light whenever we
 
 . LEDs
 
+. RelaySPST-57
+
+. AudioOut-58
+
+. Fixed Voltage 5V
+
 # Advantages:
 
 . Long Lifespan.
