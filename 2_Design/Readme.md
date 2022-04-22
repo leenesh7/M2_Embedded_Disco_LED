@@ -1,5 +1,5 @@
 # SIMULATION
 
-![WhatsApp Image 2022-04-22 at 3 20 35 PM (1)](https://user-images.githubusercontent.com/101871375/164697377-df65b0ee-822f-415d-b395-c0e550d927fe.jpeg)
-
-![WhatsApp Image 2022-04-22 at 3 20 35 PM](https://user-images.githubusercontent.com/101871375/164697402-16ab71f8-5740-416f-8467-1afd0f75ee72.jpeg)
+![schematic diagram](https://user-images.githubusercontent.com/101555328/164725755-d4efc1f0-5fc9-4a71-83dc-f7e0d499eb77.png)
+![blockdiagram](https://user-images.githubusercontent.com/101555328/164725797-24075f8c-2aaa-422f-9e62-f2987d26fc1d.jpeg)
+![flowchart](https://user-images.githubusercontent.com/101555328/164725805-64e9b205-17e7-4b58-8bc2-d8c8d37cf941.jpeg)
