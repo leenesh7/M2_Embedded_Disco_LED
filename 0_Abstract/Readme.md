@@ -12,13 +12,13 @@ developed with safety environment when switching ON or OFF the light whenever we
 
 # Components:
 
-Atmega328
+. Atmega328
 
 . LEDs
 
 # Advantages:
 
-Long Lifespan.
+. Long Lifespan.
 
 • Energy Efficiency.
 
