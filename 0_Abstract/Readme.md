@@ -50,18 +50,6 @@ developed with safety environment when switching ON or OFF the light whenever we
 
 • Performance standardization has not yet been streamlined. • Overheating can cause reduced lamp life.
 
-# Components:
-
-• Atmega328
-
-. LEDs
-
-• RelaySPST-57
-
-• AudioOut-58
-
-. Fixed Voltage SV
-
 # SOFTWARE USED:
 
 • SimuliDE
