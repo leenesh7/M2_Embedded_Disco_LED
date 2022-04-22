@@ -10,11 +10,6 @@ project is based on electrical and electronics combinational circuit technology 
 
 developed with safety environment when switching ON or OFF the light whenever we want
 
-# Components:
-
-Atmega328
-
-. LEDs
 
 # Advantages:
 
