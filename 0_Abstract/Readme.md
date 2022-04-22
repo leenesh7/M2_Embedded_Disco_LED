@@ -1,8 +1,8 @@
-Objective:
+# Objective:
 
 The aim of this project is to blink the LED in a more smarter way using Atmega328. The blinking simply means the ON and OFF of the LED, it's simple as that of switching the power supply ON and OFF.
 
-Introduction:
+# Introduction:
 
 Disco LEDs or Disco lights are widely used in many celebrations. They are used in Marriage functions, office parties, puts and so on. Our
 
@@ -10,13 +10,13 @@ project is based on electrical and electronics combinational circuit technology 
 
 developed with safety environment when switching ON or OFF the light whenever we want
 
-Components:
+# Components:
 
 Atmega328
 
 . LEDs
 
-Advantages:
+# Advantages:
 
 Long Lifespan.
 
@@ -34,7 +34,7 @@ Instant Lighting and the Ability to Withstand Frequent Switching.
 
 Low Voltage Operation.
 
-Disadvantages:
+# Disadvantages:
 
 • High up-front costs.
 
@@ -43,7 +43,8 @@ Disadvantages:
 • Potential color shift over lamp life.
 
 • Performance standardization has not yet been streamlined. • Overheating can cause reduced lamp life.
-Components:
+
+# Components:
 
 • Atmega328
 
@@ -55,13 +56,13 @@ Components:
 
 . Fixed Voltage SV
 
-SOFTWARE USED:
+# SOFTWARE USED:
 
 • SimuliDE
 
 Atmel studio
 
-Advantages:
+# Advantages:
 
 • Long Lifespan.
 
@@ -77,4 +78,3 @@ Advantages:
 
 • Instant Lighting and the Ability to Withstand Frequent Switching
 
-Low Voltage Operation
