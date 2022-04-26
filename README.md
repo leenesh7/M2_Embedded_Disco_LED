@@ -8,7 +8,7 @@
      code Quality ![Code Quality Score](https://api.codiga.io/project/33023/score/svg)
  
  
-     Quality Grade ![Quality Grade](https://api.codiga.io/project/33023/status/svg)
+    * Quality Grade ![Quality Grade](https://api.codiga.io/project/33023/status/svg)
      
      
 * Cppcheck [![Cppcheck Analysis](https://github.com/dineshkumar-t-dk/M2_SERIAL_LED/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/dineshkumar-t-dk/M2_SERIAL_LED/actions/workflows/Cppcheck_Analyse.yml)
